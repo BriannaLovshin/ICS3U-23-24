@@ -5,10 +5,11 @@ public class HomeworkSix {
         double r, c;
 
         r = 4.7;
-        c = 2*π*r;
+        c = 2*r;
 
         System.out.print("Circumference = ");
         System.out.print(c);
         
     
+    }
 }
