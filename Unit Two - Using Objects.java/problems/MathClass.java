@@ -65,16 +65,10 @@ public class MathClass{
         int coco = (int) Math.pow(la, lao); 
         System.out.println(coco);
 
+
         //problem 10
-        
 
-        
-
-
-
-
-
-
+       
 
 
 
